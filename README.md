@@ -12,7 +12,7 @@ The project is developed and tested using Python version 3.8. Other versions mig
 
 2. Create and activate a virtual environment. You can use the following snippets or use another environment of your choice.
 
-    `python -m venv venv`
+    `python3 -m venv venv`
 
     `source venv/bin/activate`
 
